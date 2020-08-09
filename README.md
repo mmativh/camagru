@@ -26,4 +26,4 @@ A small image social sharing site.
     - phpmyadmin
     
 ## Testing
--https://github.com/wethinkcode-students/corrections_42_curriculum/blob/master/matcha.markingsheet.pdf
+   - https://github.com/wethinkcode-students/corrections_42_curriculum/blob/master/camagru.markingsheet.pdf
